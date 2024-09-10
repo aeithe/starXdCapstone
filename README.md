@@ -32,4 +32,4 @@ Created a full-stack web application to implement a horoscope dating app
 - Better UI
 
 ## Other Links
-- [Link to Figma] (https://www.figma.com/proto/aK48KDnWBHt64jP6bQur93/Untitled?node-id=6-642&t=N57AMvSmJdt7t1uZ-1)
+- [Link to Figma] (https://www.figma.com/design/aK48KDnWBHt64jP6bQur93/Untitled?node-id=6-871&t=N57AMvSmJdt7t1uZ-1)
